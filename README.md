@@ -1,6 +1,6 @@
 # Zomato Dataset - SQL Exploration  
 
-This repository contains SQL scripts and a dataset (CSV file) used for exploring and analyzing the Zomato restaurant dataset. The dataset consists of over **9000 records**, covering details like **restaurant names, locations, cuisines, ratings, and more**.  
+This repository contains SQL scripts and a dataset (CSV file) used for exploring and analyzing the Zomato restaurant dataset. The dataset consists of over **9500 records**, covering details like **restaurant names, locations, cuisines, ratings, and more**.  
 
 ## 📌 About This Repository  
 
@@ -10,8 +10,8 @@ This repository contains SQL scripts and a dataset (CSV file) used for exploring
 
 ## 📂 Files in This Repository  
 
-- `ZomatoData.sql` → Contains SQL scripts used for data cleaning and transformation.  
-- `ZomatoData.csv` → Original dataset used for analysis.  
+- `zmt_sql_script.sql` → Contains SQL scripts used for data cleaning and transformation.  
+- `Zomato_Dataset.csv` → Original dataset used for analysis.  
 
 ## 🔧 SQL Operations Performed  
 
@@ -25,8 +25,8 @@ This repository contains SQL scripts and a dataset (CSV file) used for exploring
 
 ## 🚀 How to Use  
 
-1. Import the `ZomatoData.csv` file into MySQL.  
-2. Run the `ZomatoData.sql` script step by step in MySQL Workbench or any SQL client.  
+1. Import the `Zomato Dataset.csv` file into MySQL.  
+2. Run the `zmt_sql_script.sql` script step by step in MySQL Workbench or any SQL client.  
 3. Modify queries as needed for further exploration.  
 
 ## 🔗 Connect with Me  
